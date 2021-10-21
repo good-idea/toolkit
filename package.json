@@ -1,5 +1,5 @@
 {
-  "name": "oss-workshop",
+  "name": "@good-idea/toolkit",
   "author": "Joseph Thomas",
   "module": "dist/oss-demo.esm.js",
   "version": "1.0.0",
