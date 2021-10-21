@@ -1,3 +1,9 @@
+# [1.1.0](https://github.com/good-idea/toolkit/compare/v1.0.0...v1.1.0) (2021-10-21)
+
+### Features
+
+- **lib:** add empty foo file ([062cfab](https://github.com/good-idea/toolkit/commit/062cfabaf10d48a3afedb9a0a352385af1fce03c))
+
 # 1.0.0 (2021-10-21)
 
 ### Features
