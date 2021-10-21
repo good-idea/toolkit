@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/good-idea/toolkit/compare/v1.1.0...v1.1.1) (2021-10-21)
+
+### Bug Fixes
+
+- **repo:** fix a thing ([73421e1](https://github.com/good-idea/toolkit/commit/73421e1609a89712c472665dd49e5f8b688e887c))
+
 # [1.1.0](https://github.com/good-idea/toolkit/compare/v1.0.0...v1.1.0) (2021-10-21)
 
 ### Features
