@@ -1,3 +1,9 @@
+## [1.1.2](https://github.com/good-idea/toolkit/compare/v1.1.1...v1.1.2) (2021-10-21)
+
+### Bug Fixes
+
+- **repo:** remove foo ([efbfe4a](https://github.com/good-idea/toolkit/commit/efbfe4aede79b59679df5c68f98340761198a2dd))
+
 ## [1.1.1](https://github.com/good-idea/toolkit/compare/v1.1.0...v1.1.1) (2021-10-21)
 
 ### Bug Fixes
